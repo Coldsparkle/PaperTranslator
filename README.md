@@ -7,7 +7,7 @@
 [fastjson](https://github.com/alibaba/fastjson)
 
 ### 构建过程
-1.`git clone https://gitee.com/coldsparkle/PdfTranslator.git`
+1.`git clone https://github.com/Coldsparkle/PaperTranslator.git`
 
 2.在Intellij IDEA中打开项目，等待maven下载依赖包
 
